@@ -2,7 +2,7 @@
 
 call %~dp0venv\Scripts\activate
 
-set TOKEN=5828291619:AAFGuseYA1DfLH1tXH9WFH5g6fkC2YXoOAU
+set TOKEN='paste token of your bot here'
 
 python service_bot.py
 
